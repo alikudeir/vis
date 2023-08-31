@@ -11,7 +11,7 @@ $merah   = "\e[91m";
 $putih   = "\e[0m";
 
 echo $kuning . "~~ AUTO VISITOR BLOG ~~\n";
-echo "Github: github.com/aaafarrr \n\n";
+echo "Github: github.com/alikudeir \n\n";
 echo $hijau . "Url Website: ";
 $url = trim(fgets(STDIN));
 echo $hijau . "Number of bot visitors: ";
